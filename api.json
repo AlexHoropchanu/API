@@ -1,0 +1,50 @@
+[
+    {
+      "id_product": 1,
+      "product_name": "T-shirt Man White",
+      "price": 100,
+      "src_img": "images/popular__item1.png"
+    },
+    {
+        "id_product": 2,
+        "product_name": "T-shirt Wooman Pink",
+        "price": 110,
+        "src_img": "images/popular__item2.png"
+      },
+      {
+        "id_product": 3,
+        "product_name": "Jacket Man Blue",
+        "price": 300,
+        "src_img": "images/popular__item3.png"
+      },
+      {
+        "id_product": 4,
+        "product_name": "Dress Wooman Flowers",
+        "price": 240,
+        "src_img": "images/popular__item4.png"
+      },
+      {
+        "id_product": 5,
+        "product_name": "Dress Wooman White-Black",
+        "price": 350,
+        "src_img": "images/popular__item5.png"
+      },
+      {
+        "id_product": 6,
+        "product_name": "Blazer Man",
+        "price": 360,
+        "src_img": "images/popular__item6.png"
+      },
+      {
+        "id_product": 7,
+        "product_name": "Breeches Man",
+        "price": 370,
+        "src_img": "images/popular__item7.png"
+      },
+      {
+        "id_product": 8,
+        "product_name": "Shorts Man",
+        "price": 380,
+        "src_img": "images/popular__item8.png"
+      }
+  ]
